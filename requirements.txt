@@ -1,0 +1,2 @@
+# Add your project dependencies here
+python-dotenv==0.15.0
