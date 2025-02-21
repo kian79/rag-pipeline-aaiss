@@ -15,4 +15,4 @@ In this session, we explored:
 
 These materials provide an end-to-end practical implementation of RAG using LangChain and MistralAI, covering everything from PDF ingestion to Pinecone-based retrieval and query generation.
 
-![First Slide]([http://url/to/img.png](https://github.com/kian79/rag-pipeline-aaiss/blob/main/Screenshot%20from%202025-02-21%2017-16-41.png))
+![First Slide](https://github.com/kian79/rag-pipeline-aaiss/blob/main/Screenshot%20from%202025-02-21%2017-16-41.png)
